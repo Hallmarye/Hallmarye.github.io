@@ -1,0 +1,26 @@
+h1 {
+  color: maroon;
+  font-size: 48px;
+}
+body {
+  font-size: 20px;
+}
+article {
+  padding: 10px 60px;
+}
+img {
+  max-width: 100%;
+}
+.byline {
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.dateline {
+  font-size: 16px;
+  color: gray;
+  font-family: sans-serif;
+}
+figcaption {
+  font-size: 16px;
+  font-family: sans-serif;
+}
